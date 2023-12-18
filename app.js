@@ -20,8 +20,8 @@ let Container = document.getElementById("react-container")
 
 function ReactContainer(){
     return(
-        <div>
-            Hello Kalvium
+        <div>Hello! Welcome to Kalvium   
+            <div>This is babel</div>
         </div>    
     )
 }
